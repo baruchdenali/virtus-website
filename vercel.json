@@ -1,10 +1,1 @@
-{
-  "version": 2,
-  "alias": ["virtus-edu.net", "www.virtus-edu.net"],
-  "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "/index.html"
-    }
-  ]
-}
+
